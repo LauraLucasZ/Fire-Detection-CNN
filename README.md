@@ -34,9 +34,7 @@ FIREDETECTION/
 ├── testingVGG.py
 │
 ├── fire_detection_model.h5 # Saved model
-├── fire_detection_*.keras/.h5 # Various saved models/weights
-├── pycache/ # Cache (ignored)
-└── newenv/ # Virtual environment (ignored)
+└──  fire_detection_*.keras/.h5 # Various saved models/weights
 ```
 ---
 
