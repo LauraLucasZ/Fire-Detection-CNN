@@ -1,6 +1,6 @@
 # Fire Detection Using Deep Learning (EfficientNetB0, ResNet50, VGG16)
 
-This project applies deep learning and image processing techniques to detect fire in images. We trained and evaluated three convolutional neural network (CNN) architectures — **EfficientNetB0**, **ResNet50**, and **VGG16** — to determine which model achieves the best performance in identifying fire-related scenes.
+This project applies deep learning and image processing techniques to detect fire in images. I trained and evaluated three convolutional neural network (CNN) architectures — **EfficientNetB0**, **ResNet50**, and **VGG16** — to determine which model achieves the best performance in identifying fire-related scenes.
 
 ## 🚀 Project Highlights
 
