@@ -84,6 +84,14 @@ EfficientNetB0 achieved the highest accuracy among all models.
 | 1 (Fire)     | 0.98      | 0.96   | 0.97     | 108     |
 | **Accuracy** |           |        | **0.97** | **217** |
 
+## 🖼️ Screenshots
+<img src="assets/fire1.png" width="600"/>  
+<img src="assets/nofire1.png" width="600"/>  
+<img src="assets/fire2.png" width="600"/>  
+<img src="assets/nofire2.png" width="600"/>  
+<img src="assets/fire3.png" width="600"/>  
+<img src="assets/nofire3.png" width="600"/>
+
 ### ✅ Summary
 
 - The model demonstrates high reliability with **balanced precision and recall**.
